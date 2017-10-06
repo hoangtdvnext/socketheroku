@@ -1,4 +1,4 @@
-var socket = io("https://hoangtdprofile.herokuapp.com");
+var socket = io("https://hoangtdprofile.herokuapp.com/");
 
 socket.on("register-response", function(data){
 	console.log(data.length);
