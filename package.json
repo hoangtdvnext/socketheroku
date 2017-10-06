@@ -1,0 +1,12 @@
+{
+  "name": "socketheroku",
+  "version": "1.0.0",
+  "description": "abc",
+  "main": "index.js",
+  "repository":"https://github.com/hoangtdvnext/socketheroku.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hoangtd",
+  "license": "ISC"
+}
